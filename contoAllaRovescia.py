@@ -1,3 +1,7 @@
+"""
+Si prega di rispettare i termini della licenza: http://creativecommons.org/licenses/by/4.0/
+"""
+
 def contoallarovescia(n):
     if n <= 0:
         print("Via!")
