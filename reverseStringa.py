@@ -1,5 +1,5 @@
 """
-Si prega di rispettare i termini della licenza: http://creativecommons.org/licenses/by/4.0/
+Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by/4.0/
 """
 
 def reverseStringa(s):
