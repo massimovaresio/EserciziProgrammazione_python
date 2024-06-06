@@ -23,7 +23,7 @@ def is_triple_double(word):
             count = count + 1
             if count == 3:
                 return True
-            i = i + 2
+            i = i + 2  # Questo codice viene eseguito solo se il controllo precedente (if count == 3:) non ha restituito True
         else:
             i = i + 1 - 2*count
             count = 0
