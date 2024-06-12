@@ -53,6 +53,20 @@ def parole_diverse(isto):
      """
      return len(isto)
 
+def parole_piu_comuni(isto):
+     """Per trovare le parole più comuni creo una lista di tuple in cui ciascuna contiene una parola e la sua frequenza, poi le ordino
+     """
+     t = []  # inizializzo la lista di tuple
+     for chiave, valore in isto.items():  # crea un oggetto iterabile, vedi https://docs.python.org/3/library/stdtypes.html#dict.items
+          t.append((valore, chiave))  # doppie parentesi per rendere chiaro che sono tuple
+
+     t.sort(key=lambda x: x[0], reverse=True)  
+     # ordina per il primo elemento della tupla; key=lambda x: x[0] significa che stai dicendo a Python di ordinare la lista in base al primo elemento della tupla; la lambda è una funzione anonima che prende un argomento (in questo caso una tupla) e restituisce il primo elemento di quella tupla;
+     # poi il paramentro reverse la ordina in modo descrescente;
+     # avrei potuto usare anche sorted() ma mi avrebbe creato una nuova lista con consumo di memoria elevato visto che è una lista grande
+     return t     
+          
+
 
 # ESECUZIONE
 istogramma = elabora_file('emma.txt')
@@ -62,3 +76,9 @@ print("Numero totale di parole: ", parole_totali(istogramma))
 
 # Conta parole diverse e stampa il risultato
 print("Numero di parole diverse: ", parole_diverse(istogramma))
+
+# Seleziona parole più comuni
+lista_comuni = parole_piu_comuni(istogramma)
+print("Le 10 parole più comuni sono:")
+for frequenza, parola in lista_comuni[:10]:
+     print(parola, frequenza, sep='\t')  # separa con un tab
