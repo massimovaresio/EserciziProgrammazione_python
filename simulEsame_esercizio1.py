@@ -23,6 +23,31 @@ def dividiPariDispari(lista):
     print("Questa è la lista con gli elementi dispari: ", s)
 
 
+"""Soluzione alternativa che usa la funzione enumerate() che permette di attraversare gli elementi
+   di una lista e i loro indici. Il risultato è un oggetto emunerate, che itera una sequenza di coppie
+ 
+def dividiPariDispari_enum(lista):
+    
+    t = tuple()
+    t_temp = list()
+    s = list()
+
+    # Itera attraverso gli elementi della lista passata in argomento
+    for indice, elemento in enumerate(lista):
+        if indice % 2 == 0:
+            t_temp.append(elemento)
+        else:
+            s.append(elemento)
+
+    t = tuple(t_temp)
+
+    print("Questa è la tupla con gli elementi pari: ", t)
+    print("Questa è la lista con gli elementi dispari: ", s)
+
+"""
+
+
 lista_iniziale = [8, 1, 3, 4, 2, 6, 5]
-dividiPariDispari(lista_iniziale)   
+dividiPariDispari(lista_iniziale)
+# dividiPariDispari_enum(lista_iniziale)
 
