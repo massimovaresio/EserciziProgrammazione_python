@@ -1,6 +1,6 @@
 """Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by/4.0/
 
-    RICHIESTA: Scrivere una funzione che prende come parametro una lista e mette in una tupla gli elementi in
+    RICHIESTA: scrivere una funzione che prende come parametro una lista e mette in una tupla gli elementi in
     posizione pari e in un'altra lista gli elementi in posizione dispari. Al termine stampa la lista
     risultante e la tupla risultante.
 """
@@ -24,7 +24,7 @@ def dividiPariDispari(lista):
 
 
 """Soluzione alternativa che usa la funzione enumerate() che permette di attraversare gli elementi
-   di una lista e i loro indici. Il risultato è un oggetto emunerate, che itera una sequenza di coppie
+   di una lista e i loro indici. Il risultato è un oggetto enumerate, che itera una sequenza di coppie
  
 def dividiPariDispari_enum(lista):
     
