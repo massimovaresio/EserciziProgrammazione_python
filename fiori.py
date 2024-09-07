@@ -7,7 +7,7 @@ http://thinkpython2.com
 
 Sono stati rimossi i riferimenti al Copyright in quanto il seguente codice è stato modificato e rielaborato rispetto all'originale.
 
-Si prega ugualmente di rispettare i termini della licenza: https://creativecommons.org/licenses/by/4.0/
+Si prega ugualmente di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
 """
 
 import turtle  # Documentazione del modulo Turtle graphics: https://docs.python.org/3/library/turtle.html#module-turtle

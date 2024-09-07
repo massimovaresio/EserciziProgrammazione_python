@@ -1,4 +1,4 @@
-"""Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by/4.0/
+"""Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
     RICHIESTA: scrivere una funzione che prende come parametro una lista e mette in una tupla gli elementi in
     posizione pari e in un'altra lista gli elementi in posizione dispari. Al termine stampa la lista

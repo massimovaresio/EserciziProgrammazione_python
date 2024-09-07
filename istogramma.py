@@ -8,7 +8,7 @@ per aggiungere elementi (intesi come coppia chiave-valore) posso usare la notazi
 ad esempio in un caso di strighe: dizionario['chiave'] = 'valore'
 i dizionari supportano la funzione len() che restituisce il numero di elementi (coppie) che compongono il dizionario
 
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by/4.0/
+Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
 """
 
 def istogramma(s):

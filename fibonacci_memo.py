@@ -1,6 +1,5 @@
-
 """
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by/4.0/
+Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
 """
 
 memo = {0:0, 1:1} # dizionario di partenza con i valori di fibonacci(0) e fibonacci(1)
