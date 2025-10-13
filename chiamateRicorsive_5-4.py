@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 def ricorsione(n, s):
     """Dati due numeri interi, chiama ricorsivamente fino a raggiungere il caso base n == 0 e stampa i passaggi come
        se fosse rappresentato un diagramma di stack; infine stampa s quando raggiunge il caso base 

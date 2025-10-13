@@ -1,14 +1,3 @@
-"""This module contains a code example related to
-
-Think Python, 2nd Edition
-by Allen Downey
-http://thinkpython2.com
-
-Copyright 2015 Allen Downey
-
-License: https://creativecommons.org/licenses/by/4.0/
-"""
-
 from __future__ import print_function, division  # Questa importazione è stata fatta dall'autore solo per rendere compatibile con Python2; su Python3 non servirebbe perché basta la funzione print().
 
 

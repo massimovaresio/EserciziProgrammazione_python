@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 def divisibili_per_tre(lista):
     """Prende una lista e genera due liste, una con i numeri divisibili per 3 e l'altra con i rimanenti
 

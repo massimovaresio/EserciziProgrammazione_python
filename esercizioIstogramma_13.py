@@ -1,15 +1,3 @@
-
-"""Questo modulo contiene esempi di codice correlati al libro:
-
-Think Python, 2nd Edition
-by Allen Downey
-http://thinkpython2.com
-
-Sono stati rimossi i riferimenti al Copyright in quanto il seguente codice è stato modificato e rielaborato rispetto all'originale.
-
-Si prega ugualmente di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 # OBIETTIVO: progettare un programma che legge un file di testo e costruisce un istogramma delle parole contenute e poi esegue altre operazioni
 
 import string

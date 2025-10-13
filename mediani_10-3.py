@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 def del_estremi(lista):
     del lista[0]
     del lista[-1]

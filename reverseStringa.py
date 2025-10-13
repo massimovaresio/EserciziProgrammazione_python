@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 def reverseStringa(s):
     lunghezza = len(s)
     i = lunghezza - 1

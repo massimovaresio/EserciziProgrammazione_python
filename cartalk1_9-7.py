@@ -1,14 +1,3 @@
-"""This module contains a code example related to
-
-Think Python, 2nd Edition
-by Allen Downey
-http://thinkpython2.com
-
-Copyright 2015 Allen Downey
-
-License: https://creativecommons.org/licenses/by/4.0/
-"""
-
 def is_triple_double(word):
     """Tests if a word contains three consecutive double letters.
     

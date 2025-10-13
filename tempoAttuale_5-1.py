@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 import time
 
 # Ottieni il tempo attuale in secondi dal "tempo zero" (1 gennaio 1970)

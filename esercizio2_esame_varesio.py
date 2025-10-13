@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 def crea_dizionario(tupla_liste):
     # Dividi la tupla in due liste
     lista1, lista2 = tupla_liste

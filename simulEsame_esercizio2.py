@@ -1,5 +1,4 @@
-"""Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
+"""
     RICHIESTA: scrivere una funzione che prende come parametro una lista di tuple. Nella funzione creare un
     dizionario dove, per ogni elemento della lista, la chiave del dizionario è il primo elemento della tupla
     e il valore è una tupla di due elementi: il primo elemento è la posizione che la tupla aveva nella

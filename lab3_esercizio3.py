@@ -1,7 +1,3 @@
-"""
-Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 """Esercizio 3: Fare la somma dei numeri da 1 a 20 (1+2+....+20) usando il ciclo while
 """
 

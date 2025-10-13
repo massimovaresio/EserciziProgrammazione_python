@@ -1,6 +1,3 @@
-"""Si prega di rispettare i termini della licenza: https://creativecommons.org/licenses/by-nc-sa/4.0/
-"""
-
 """RICHIESTA:
 Scrivere una funzione che prende una stringa in input e controlla che sia una buona password:
 # Almeno 8 caratteri, almeno un numero, almeno una lettera maiuscola, almeno una minuscola
