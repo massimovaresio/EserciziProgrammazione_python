@@ -7,7 +7,7 @@ The software code contained within this repository is licensed under the **MIT L
 
 The full text of the MIT License is included below:
 
-***
+'''
 The MIT License (MIT)
 
 Copyright (c) 2025 Massimo Varesio
@@ -29,7 +29,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-***
+'''
 
 ## 2. Documentation and Other Content License (Non-Code)
 All documentation, including `README` files, wikis, and any other non-code content (text, images, etc.), is licensed under a Creative Commons license, specifically the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
