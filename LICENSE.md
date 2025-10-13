@@ -32,7 +32,7 @@ THE SOFTWARE.
 ```
 
 ## 2. Documentation and Other Content License (Non-Code)
-All documentation, including `README` files, wikis, and any other non-code content (text, images, etc.), is licensed under a Creative Commons license, specifically the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+All documentation, including `README` files, wikis, and any other non-code content (text, images, etc.), is licensed under a Creative Commons license, specifically the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License.
 
 ## 3. Netiquette and Code of Conduct (Contributing)
 When contributing to this project, we kindly ask that you adhere to general **netiquette principles**.
